@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacio
 		Grafos - La tercera via para nuestros datos - 2020 - V1.0.0.pdf = Grafos - La tercera via para nuestros datos - 2020 - V1.0.0.pdf
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo4JDemo2", "Neo4JDemo2\Neo4JDemo2.csproj", "{07CDB80C-9376-425C-A591-BEB1F0273E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo2JDemo2Library", "Neo2JDemo2Library\Neo2JDemo2Library.csproj", "{0465AD56-2BEC-4632-A05A-D31B01548670}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +30,14 @@ Global
 		{9687DDD8-6A0F-4EB0-9A6B-9ADA45834F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9687DDD8-6A0F-4EB0-9A6B-9ADA45834F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9687DDD8-6A0F-4EB0-9A6B-9ADA45834F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CDB80C-9376-425C-A591-BEB1F0273E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CDB80C-9376-425C-A591-BEB1F0273E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CDB80C-9376-425C-A591-BEB1F0273E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CDB80C-9376-425C-A591-BEB1F0273E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0465AD56-2BEC-4632-A05A-D31B01548670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0465AD56-2BEC-4632-A05A-D31B01548670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0465AD56-2BEC-4632-A05A-D31B01548670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0465AD56-2BEC-4632-A05A-D31B01548670}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
